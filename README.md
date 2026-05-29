@@ -28,10 +28,9 @@ My goal is to continue improving my skills in programming, system development, a
 A Java NetBeans-based Inventory Management System developed in Computer Programming 2 (ComProg 2). 
 This system manages products, stocks, and inventory records.
 
-  E-Commerce Website (YOUR FIT)
-A simple online shopping website with product display and user-friendly interface.  
-**Tech used:** HTML, CSS, JavaScript
-
+ Online Store Layout
+An e-commerce website project developed in IT Elec. 
+YOUR FIT is a responsive online clothing store website designed using HTML and CSS.
 
 
   Skills
