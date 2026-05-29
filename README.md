@@ -68,9 +68,9 @@ A simple online shopping website with product display and user-friendly interfac
 
 ## 📫 Contact Me
 
-- 📧 Email: yourname@email.com  
-- 🌐 GitHub: https://github.com/yourusername  
-- 📱 Facebook: (add your link here)
+- 📧 Email: jmgenite17@gmail.com
+- 🌐 GitHub: https://github.com/genitejohnmark-a11y/johnmark-portfolio
+- 📱 Facebook: John.M4ark2k26
 
 ---
 
