@@ -25,8 +25,8 @@ My goal is to continue improving my skills in programming, system development, a
  Projects
 
   Inventory Management System
-A system designed to track, manage, and organize product stocks efficiently.  
-**Tech used:** Java, MySQL
+A Java NetBeans-based Inventory Management System developed in Computer Programming 2 (ComProg 2). 
+This system manages products, stocks, and inventory records.
 
   E-Commerce Website (YOUR FIT)
 A simple online shopping website with product display and user-friendly interface.  
