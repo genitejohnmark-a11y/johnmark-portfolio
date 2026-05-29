@@ -4,13 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Web+Developer+in+Progress;Future+Software+Engineer;Davao+del+Norte+State+College" />
 </p>
 
-# Hi there 👋 I'm John Mark B. Genite
+ Hi there 👋 I'm John Mark B. Genite
 
 Welcome to my GitHub! I'm a first-year Information Technology student from **Davao del Norte**, studying at a **state college**, passionate about technology, programming, and web development.
 
----
 
-## 💫 About Me
+
+ 💫 About Me
 
 Hello! My name is **JOHN MARK B. GENITE**, a first-year college student from **Davao del Norte**, currently studying at a **state college** and taking up Information Technology. I am passionate about technology, programming, web development, and learning new skills related to the IT industry.
 
@@ -24,21 +24,20 @@ I am also currently serving as a **Board Member of IC LSG**, where I continue to
 
 My goal is to continue improving my skills in programming, system development, and web design while also growing as a student leader and individual. I hope to create innovative projects in the future and become a successful IT professional who can contribute positively to society and the technology industry.
 
----
 
-## 🚀 Projects
 
-### 📦 Inventory Management System
+ 🚀 Projects
+
+ 📦 Inventory Management System
 A system designed to track, manage, and organize product stocks efficiently.  
 **Tech used:** Java, MySQL
 
-### 🛍️ E-Commerce Website (YOUR FIT)
+ 🛍️ E-Commerce Website (YOUR FIT)
 A simple online shopping website with product display and user-friendly interface.  
 **Tech used:** HTML, CSS, JavaScript
 
----
 
-## 🛠️ Skills
+🛠️ Skills
 
 - HTML, CSS, JavaScript
 - Java Programming
@@ -46,17 +45,17 @@ A simple online shopping website with product display and user-friendly interfac
 - UI/UX Design Basics
 - NetBeans, VS Code
 
----
 
-## 🏆 Leadership & Achievements
+
+ 🏆 Leadership & Achievements
 
 - 🧑‍💼 Board Member – IC LSG
 - 🏅 Head Committee – NSTP Project SHINE
 - 🤝 Active in academic and community projects
 
----
 
-## 🎯 Interests
+
+ 🎯 Interests
 
 - Web Development
 - Software Development
@@ -64,16 +63,13 @@ A simple online shopping website with product display and user-friendly interfac
 - Leadership & Community Service
 - Dancing & Singing
 
----
 
-## 📫 Contact Me
+
+ 📫 Contact Me
 
 - 📧 Email: jmgenite17@gmail.com
 - 🌐 GitHub: https://github.com/genitejohnmark-a11y/johnmark-portfolio
-- 📱 Facebook: John.M4ark2k26
+- 📱 Facebook: (https://www.facebook.com/John.M4ark2k26)
 
----
 
-## ⭐ Fun Quote
 
-*"Striving to grow as a developer, leader, and future IT professional."*
