@@ -29,12 +29,14 @@ My goal is to continue improving my skills in programming, system development, a
  🚀 Projects
 
  📦 Inventory Management System
-A system designed to track, manage, and organize product stocks efficiently.  
-**Tech used:** Java, MySQL
+A Java NetBeans-based Inventory Management System
+                developed in Computer Programming 2 (ComProg 2).
+                This system manages products, stocks, and inventory records.
 
  🛍️ E-Commerce Website (YOUR FIT)
-A simple online shopping website with product display and user-friendly interface.  
-**Tech used:** HTML, CSS, JavaScript
+An e-commerce website project developed in IT Elec.
+                YOUR FIT is a responsive online clothing store website
+                designed using HTML and CSS.
 
 
 🛠️ Skills
@@ -49,10 +51,13 @@ A simple online shopping website with product display and user-friendly interfac
 
  🏆 Leadership & Achievements
 
-- 🧑‍💼 Board Member – IC LSG
-- 🏅 Head Committee – NSTP Project SHINE
-- 🤝 Active in academic and community projects
-
+- 🎖️ Elected Board Member of IC LSG
+- 🌟 Head Committee of NSTP Project SHINE
+- 💻 Developed an Inventory Management System in ComProg 2
+- 🛍️ Created the YOUR FIT E-Commerce Website in IT Elec
+- 🎤 Active in Singing and Performing Activities
+- 💃 Passionate in Dancing and Creative Arts
+- 🎖️ PSITS REGION XI- Sayaw Sinco
 
 
  🎯 Interests
@@ -70,6 +75,7 @@ A simple online shopping website with product display and user-friendly interfac
 - 📧 Email: jmgenite17@gmail.com
 - 🌐 GitHub: https://github.com/genitejohnmark-a11y/johnmark-portfolio
 - 📱 Facebook: (https://www.facebook.com/John.M4ark2k26)
+- Location: Carmen, Davao del Norte, Philippines</p>
 
 
 
