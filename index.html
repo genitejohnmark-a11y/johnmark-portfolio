@@ -32,22 +32,26 @@
             position:fixed;
             width:100%;
             top:0;
+            z-index:1000;
+            box-shadow:0 5px 10px rgba(0,0,0,0.2);
         }
 
         nav h2{
             color:#38bdf8;
+            font-size:28px;
         }
 
         nav ul{
             display:flex;
             list-style:none;
-            gap:20px;
+            gap:25px;
         }
 
         nav ul li a{
             text-decoration:none;
             color:white;
             transition:0.3s;
+            font-weight:bold;
         }
 
         nav ul li a:hover{
@@ -67,25 +71,52 @@
             color:white;
             padding:20px;
         }
-        .profile-pic{
-    width:220px;
-    height:220px;
-    object-fit:cover;
-    border-radius:50%;
-    border:6px solid #38bdf8;
-    padding:5px;
-    background:white;
-    box-shadow:0 0 25px rgba(56,189,248,0.6);
-    transition:0.4s;
-}
 
-.profile-pic:hover{
-    transform:scale(1.05);
-    box-shadow:0 0 40px rgba(56,189,248,0.9);
-}
+        /* PROFILE PICTURE */
+
+        .profile-pic{
+            width:230px;
+            height:230px;
+            object-fit:cover;
+            border-radius:50%;
+            border:6px solid #38bdf8;
+            padding:6px;
+            background:white;
+            margin-bottom:25px;
+
+            box-shadow:
+            0 0 15px rgba(56,189,248,0.5),
+            0 0 30px rgba(56,189,248,0.3);
+
+            transition:0.4s ease;
+        }
+
+        .profile-pic:hover{
+            transform:scale(1.06) rotate(2deg);
+
+            box-shadow:
+            0 0 20px rgba(56,189,248,0.9),
+            0 0 50px rgba(56,189,248,0.7);
+        }
+
+        /* HOME TEXT */
 
         .home h1{
             font-size:55px;
+            animation:glow 2s infinite alternate;
+        }
+
+        @keyframes glow{
+
+            from{
+                text-shadow:0 0 10px #38bdf8;
+            }
+
+            to{
+                text-shadow:
+                0 0 20px #38bdf8,
+                0 0 40px #38bdf8;
+            }
         }
 
         .home h3{
@@ -98,43 +129,55 @@
             margin-top:20px;
             max-width:700px;
             line-height:1.8;
+            font-size:18px;
         }
+
+        /* BUTTON */
 
         .btn{
             margin-top:30px;
-            padding:12px 30px;
+            padding:14px 35px;
             background:#38bdf8;
             color:white;
             text-decoration:none;
-            border-radius:30px;
-            transition:0.3s;
+            border-radius:40px;
+            transition:0.3s ease;
+            font-weight:bold;
+            letter-spacing:1px;
         }
 
         .btn:hover{
             background:#0ea5e9;
+            transform:translateY(-3px);
+            box-shadow:0 10px 20px rgba(14,165,233,0.4);
         }
 
         /* SECTIONS */
 
         section{
-            padding:90px 10%;
+            padding:100px 10%;
         }
 
         section h2{
             text-align:center;
             margin-bottom:40px;
             color:#0f172a;
-            font-size:38px;
+            font-size:40px;
         }
 
         /* ABOUT */
 
         .about-container{
             background:white;
-            padding:30px;
-            border-radius:15px;
+            padding:35px;
+            border-radius:20px;
             box-shadow:0 5px 15px rgba(0,0,0,0.1);
-            line-height:1.8;
+            line-height:1.9;
+            transition:0.3s;
+        }
+
+        .about-container:hover{
+            transform:translateY(-5px);
         }
 
         /* SKILLS */
@@ -149,13 +192,16 @@
             background:white;
             padding:25px;
             text-align:center;
-            border-radius:15px;
+            border-radius:20px;
             box-shadow:0 5px 15px rgba(0,0,0,0.1);
             transition:0.3s;
+            font-weight:bold;
         }
 
         .skill-box:hover{
-            transform:translateY(-5px);
+            transform:translateY(-8px);
+            background:#38bdf8;
+            color:white;
         }
 
         /* PROJECTS */
@@ -168,13 +214,18 @@
 
         .project-box{
             background:white;
-            padding:25px;
-            border-radius:15px;
+            padding:30px;
+            border-radius:20px;
             box-shadow:0 5px 15px rgba(0,0,0,0.1);
+            transition:0.3s;
+        }
+
+        .project-box:hover{
+            transform:scale(1.03);
         }
 
         .project-box h3{
-            margin-bottom:10px;
+            margin-bottom:15px;
             color:#38bdf8;
         }
 
@@ -182,14 +233,11 @@
 
         .contact-box{
             background:white;
-            padding:30px;
-            border-radius:15px;
+            padding:35px;
+            border-radius:20px;
             text-align:center;
             box-shadow:0 5px 15px rgba(0,0,0,0.1);
-        }
-
-        .contact-box p{
-            margin:10px 0;
+            line-height:2;
         }
 
         /* FOOTER */
@@ -199,6 +247,35 @@
             color:white;
             text-align:center;
             padding:20px;
+            margin-top:40px;
+        }
+
+        /* RESPONSIVE */
+
+        @media(max-width:768px){
+
+            nav{
+                flex-direction:column;
+                gap:10px;
+            }
+
+            nav ul{
+                flex-wrap:wrap;
+                justify-content:center;
+            }
+
+            .home h1{
+                font-size:38px;
+            }
+
+            .home h3{
+                font-size:22px;
+            }
+
+            .profile-pic{
+                width:180px;
+                height:180px;
+            }
         }
 
     </style>
@@ -206,7 +283,7 @@
 
 <body>
 
-    <!-- NAVBAR -->
+    <!-- NAVIGATION -->
 
     <nav>
 
@@ -223,9 +300,11 @@
     </nav>
 
     <!-- HOME -->
-    
+
     <section class="home" id="home">
-        <img src= "C:\Users\User\Pictures\Screenshots\Screenshot 2026-05-30 001425.png" alt="Profile Picture" class="profile-pic">
+
+      
+        <img src="profile.png" alt="Profile Picture" class="profile-pic">
 
         <h1>JOHN MARK B. GENITE</h1>
 
@@ -297,27 +376,33 @@
         <div class="projects">
 
             <div class="project-box">
+
                 <h3>Portfolio Website</h3>
 
                 <p>
                     A simple personal portfolio website using HTML and CSS.
                 </p>
+
             </div>
 
             <div class="project-box">
+
                 <h3>Inventory System</h3>
 
                 <p>
                     A Java NetBeans project for managing products and stocks.
                 </p>
+
             </div>
 
             <div class="project-box">
+
                 <h3>Online Store Layout</h3>
 
                 <p>
                     Your Fit is a responsive e-commerce webpage design project.
                 </p>
+
             </div>
 
         </div>
