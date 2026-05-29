@@ -18,19 +18,19 @@ My goal is to continue improving my skills in programming, system development, a
 
 
 
-🚀 Projects
+ Projects
 
- 📦 Inventory Management System
+  Inventory Management System
 A system designed to track, manage, and organize product stocks efficiently.  
 **Tech used:** Java, MySQL
 
- 🛍️ E-Commerce Website (YOUR FIT)
+  E-Commerce Website (YOUR FIT)
 A simple online shopping website with product display and user-friendly interface.  
 **Tech used:** HTML, CSS, JavaScript
 
 
 
- 🛠️ Skills
+  Skills
 
 - HTML, CSS, JavaScript
 - Java Programming
@@ -40,16 +40,17 @@ A simple online shopping website with product display and user-friendly interfac
 
 
 
- 🏆 Leadership & Achievements
+ Achievements
 
-- 🧑‍💼 Board Member – IC LSG
-- 🏅 Program Head Committee – NSTP Project SHINE
-- 🤝 Active in academic and community projects
-- 🏅 PSITS REGION XI- 2nd Runner up SAYAW SINCO
+- Elected Board Member of IC LSG
+- Head Committee of NSTP Project SHINE
+ - Developed an Inventory Management System in ComProg 2
+- Created the YOUR FIT E-Commerce Website in IT Elec
+- Active in Singing and Performing Activities
+- Passionate in Dancing and Creative Arts
+-  PSITS REGION XI- 2nd Runner up SAYAW SINCO
 
----
-
-## 🎯 Interests
+  Interests
 
 - Web Development
 - Software Development
@@ -57,37 +58,9 @@ A simple online shopping website with product display and user-friendly interfac
 - Leadership & Community Service
 - Dancing & Singing
 
----
+  Contact Me
 
-## 📫 Contact Me
-
-- 📧 Email: yourname@email.com  
-- 🌐 GitHub: https://github.com/yourusername  
+- 📧 Email: jmgenite17@gmail.com
+- 🌐 GitHub: https://github.com/genitejohnmark-a11y/johnmark-potfolio
 - 📱 Facebook: (add your link here)
 
----
-
-## ⭐ Fun Quote
-
-*"Striving to grow as a developer, leader, and future IT professional."*
- 
- 
- 
- 
- 
- 
- Achievements
-
-- Elected Board Member of IC LSG
-- Head Committee of NSTP Project SHINE
- - Developed an Inventory Management System in ComProg 2
-- Created the YOUR FIT E-Commerce Website in IT Elective
-- Active in Singing and Performing Activities
-- Passionate in Dancing and Creative Arts
-
-   Achievements & Leadership
-
-- Served as the Head Committee for NSTP Project SHINE
-- Currently serving as a Board Member of IC LSG
-- Developed academic systems and web projects in Information Technology
-- Participated in leadership, performing arts, and student activities
